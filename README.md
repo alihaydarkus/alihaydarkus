@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alihaydarkus
+- 👋 Hi, I’m Ali Haydar @alihaydarkus
 - 👀 I’m interested in game development, artificial intelligence(AI) and unreal engine 4.
 - 🌱 I’m currently learning c++ and python.
 - 💞️ I’m looking to collaborate on ...
